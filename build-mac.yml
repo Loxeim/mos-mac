@@ -1,4 +1,4 @@
-name: Build Marketing OS Mac
+name: Build Marketing OS Mac v.1
 
 on:
   push:
