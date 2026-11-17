@@ -1,0 +1,28 @@
+MARKETING OS UNTUK MAC (versi VERSI) — CARA PASANG
+==================================================
+
+Versi ini TIDAK lagi menyalakan server di Mac. Tidak perlu Python, Command Line Tools,
+atau folder bersama. Marketing OS langsung membuka MOS di PC IRFAN, di jendela aplikasinya
+sendiri (bukan Chrome / Safari).
+
+1. Seret "Marketing OS" ke folder "Applications" (di jendela ini).
+   Kalau ada versi lama, pilih "Replace".
+
+2. Buka pertama kali (aplikasi belum ditandatangani Apple):
+   - Buka folder Applications, KLIK KANAN "Marketing OS" → Open → Open.
+   - Kalau tetap diblokir: System Settings → Privacy & Security →
+     gulir ke bawah → "Open Anyway" pada Marketing OS.
+   Ini cukup sekali saja.
+
+3. Login seperti biasa.
+
+Kalau muncul "Marketing OS belum bisa dibuka":
+- Pastikan Mac tersambung internet dan PC IRFAN (server MOS) menyala, lalu klik "Coba lagi".
+- Di kantor bisa pakai alamat jaringan lokal yang lebih cepat:
+  menu Marketing OS → Alamat Server… (⌘,) → mis. http://192.168.1.10:5181/
+  Kosongkan isiannya untuk kembali ke alamat online bawaan.
+
+Menu berguna:
+- ⌘R  muat ulang      ⌘+ / ⌘-  perbesar / perkecil      ⌘P  cetak
+- Marketing OS → Buka di Browser (⇧⌘B) kalau perlu membuka di Safari / Chrome.
+- File yang diunduh (Excel, PDF) masuk ke folder Downloads.
